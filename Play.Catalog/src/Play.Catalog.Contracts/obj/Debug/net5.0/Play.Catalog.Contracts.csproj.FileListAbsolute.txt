@@ -1,0 +1,12 @@
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.deps.json
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.dll
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/ref/Play.Catalog.Contracts.dll
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net5.0/Play.Catalog.Contracts.pdb
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.csproj.AssemblyReference.cache
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.dll
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/ref/Play.Catalog.Contracts.dll
+/Users/tsaimengche/Documents/DotNet Microservices/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net5.0/Play.Catalog.Contracts.pdb
